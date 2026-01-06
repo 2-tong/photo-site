@@ -1,0 +1,1 @@
+import{n as e,r as t,t as n}from"./core-B4OsL7Mn.js";export{e as fileTypeFromBlob};
